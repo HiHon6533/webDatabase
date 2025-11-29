@@ -1,0 +1,5 @@
+murach\sql\SQLUtil.class
+com\mycompany\database\JakartaRestConfiguration.class
+com\mycompany\database\resources\JakartaEE11Resource.class
+murach\data\ConnectionPool.class
+murach\sql\SQLGatewayServlet.class

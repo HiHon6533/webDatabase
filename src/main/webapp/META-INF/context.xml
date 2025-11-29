@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/Database">
+
+    <Resource name="jdbc/mydb-render" auth="Container" 
+        driverClassName="org.postgresql.Driver" 
+        url="postgresql://mydb_render_kmao_user:d5H2ztTFadBGe3vIYBHoyTfuKzMXrcID@dpg-d4lc5kbe5dus73fmpa10-a.singapore-postgres.render.com/mydb_render_kmao" 
+        username="mydb_render_kmao_user" password="d5H2ztTFadBGe3vIYBHoyTfuKzMXrcID" 
+        maxActive="100" maxIdle="30" maxWait="10000" 
+        logAbandoned="true" removeAbandoned="true" 
+        removeAbandonedTimeout="60" type="javax.sql.DataSource" />
+</Context>
