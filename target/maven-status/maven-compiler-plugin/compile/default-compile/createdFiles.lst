@@ -1,5 +1,6 @@
-murach\sql\SQLUtil.class
 com\mycompany\database\JakartaRestConfiguration.class
+murach\dao\SQLDAO.class
+murach\sql\SQLUtil.class
 com\mycompany\database\resources\JakartaEE11Resource.class
 murach\data\ConnectionPool.class
 murach\sql\SQLGatewayServlet.class
